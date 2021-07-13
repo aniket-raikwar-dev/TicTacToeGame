@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/bungee</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/caesar_dressing</item>
+        <item>@font/carter_one</item>
+        <item>@font/fascinate</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/fugaz_one</item>
+        <item>@font/joti_one</item>
+        <item>@font/patrick_hand_sc</item>
+        <item>@font/reem_kufi</item>
+        <item>@font/righteous</item>
+        <item>@font/trade_winds</item>
+        <item>@font/ubuntu_medium</item>
+        <item>@font/yatra_one</item>
+    </array>
+</resources>
